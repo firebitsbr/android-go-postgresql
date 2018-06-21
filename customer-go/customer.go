@@ -23,6 +23,8 @@ func main() {
 	db, e = gorm.Open("postgres", "user=postgres dbname=postgres password=pratama sslmode=disable")
 	if e != nil {
 		fmt.Println(e)
+	} else {
+		fmt.Println("Connection Established")
 	}
 	defer db.Close()
 
