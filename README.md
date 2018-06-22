@@ -1,4 +1,4 @@
-<h1>REST API using Go and sqlite</h1>
+<h1>Integrating Android and Go via restful web service</h1>
 
 <p>This repository is a simple example on how to integrate Android and Go via RESTful web service.</p>
 
