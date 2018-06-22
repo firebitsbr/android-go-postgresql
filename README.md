@@ -1,6 +1,6 @@
 <h1>REST API using Go and sqlite</h1>
 
-<p>This repository is a simple example on how to integrate Android and Go via REST API.</p>
+<p>This repository is a simple example on how to integrate Android and Go via RESTful web service.</p>
 
 <h3>Prerequisites</h3>
 <p>1. <a href="https://golang.org">Go</a></p>
