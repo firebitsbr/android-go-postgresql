@@ -1,5 +1,11 @@
 <h1>Integrating Android and Go via restful web service</h1>
 
+<div>
+<img src="./resources/go.png" height="350pt" width="350pt"/>
+<img src="./resources/golang.png"  height="350pt" width="350pt"/>
+</div>
+
+
 <p>This repository is a simple example on how to integrate Android and Go via REST API.</p>
 
 <h3>Prerequisites</h3>
