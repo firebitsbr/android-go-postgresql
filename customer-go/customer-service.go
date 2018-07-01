@@ -32,7 +32,7 @@ func main() {
 	// r.GET("/customers/test/:phone_number/customer", getCustomerByPhoneNumber)
 	r.GET("/customers/:name", getCustomersByName)
 	// Insert customer
-	r.POST("/customers/", insertCustomer)
+	r.POST("/customers", insertCustomer)
 	r.Run(":8090")
 }
 
